@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_shade_1"
+    tools:context=".MainActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/idRVItem"
+        android:layout_width="match_parent"
+        tools:listitem="@layout/grocery_rv_item"
+        android:layout_height="match_parent"
+
+        />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_add"
+        android:tint="@color/white"
+        android:layout_margin="20dp"
+        android:id="@+id/idFABAdd"
+        android:backgroundTint="@color/blue_shade_2"
+        android:layout_alignParentRight="true"
+        app:tint = "@color/white"
+        app:maxImageSize="30dp"/>
+
+
+
+
+
+</RelativeLayout>
