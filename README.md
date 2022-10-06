@@ -28,6 +28,16 @@ How to use
 - The item is added in the list.
 - If you want to delete an item, click on the delete icon and the list item will be deleted.
 
+
+Video explanation
+-------------------
+There is a video explanation available for using this app <a href = "https://drive.google.com/file/d/1v8yByDRy1lZPl2Oyvk9AIEIFn9arrSjA/view?usp=sharing">Check out video tutorial</a>
+
+Download Application
+------------------------
+The application can be downloaded from here - <a href = "https://www.mediafire.com/file/ahexav5l00m74h1/Grocery+App.apk/file?dkey=64lpc3ho9bi&r=208">Download for android</a>
+
+
 Attributes
 ---------------------
 For the icons used in the app : <a href="https://www.flaticon.com/free-icons/supermarket" title="supermarket icons">Flaticon</a>
